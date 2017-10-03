@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type=”text.xsl” href=”songlist.sxl”?>
+<songlist>
+	<song>
+		<songtitle>Silos</songtitle>
+		<singer>Judy Small</singer>
+		<theme>Anti-War</theme>
+		<theme<Nuclear bomb</theme>
+	</song>
+	<song>
+		<songtitle>Green Fields of France</songtitle>
+		<singer>Eric Bogle</singer>
+		<theme>Anti-War</theme>
+	</song>
+	<song>
+		<songtitle>The Band Played Waltzing Matilda</songtitle>
+		<singer>Eric Bogle</singer>
+		<theme><Anti-War></theme?
+	</song>
+	<song>
+		<songtitle>Dance Leila Dance</songtitle>
+		<singer>Judy Small</singer>
+		<theme>Memories</theme>
+	</song>
+	<song>
+		<song title>Mary Parker’s Lament</song>
+		<singer>Judy Small</singer>
+		<theme>Memories</theme>
+	</song>
+</songlist>
+	
